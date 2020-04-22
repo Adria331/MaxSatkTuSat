@@ -1,0 +1,2 @@
+# MaxSatkTuSat
+Satsolver 2
